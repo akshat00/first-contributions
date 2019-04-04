@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- Akshat Agarwal
 - Adrian Escalona (https://github.com/DriesCode)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
